@@ -1,7 +1,1 @@
-{
-    "version":  "1.0.1",
-    "packageUrl":  "https://github.com/AkiyamaKira2003/MuMuRobloxWatchdog-Updates/releases/download/v1.0.1/MuMuRobloxWatchdog-1.0.1.zip",
-    "sha256":  "CC9DD2B477804FE595BA14A76E3F620792E93F1B303D665B3C6BF19C0B54C291",
-    "size":  52244,
-    "notes":  "Kira MuMu Roblox Watchdog v1.0.1"
-}
+{"version":"1.0.1","packageUrl":"https://github.com/AkiyamaKira2003/MuMuRobloxWatchdog-Updates/releases/download/v1.0.1/MuMuRobloxWatchdog-1.0.1.zip","sha256":"7C41385459E2E6FA97B8F80247C06D9557173DA9E1DEC517E49125CD848D7A58","size":52243,"notes":"Signed binary release with embedded watchdog engine, signed manifest verification, SHA256 checking and rollback updater."}
